@@ -12,10 +12,10 @@ This project is a React application built using Vite and styled with Tailwind CS
 - Display a welcoming header.
 - Create and display multiple greeting cards with unique titles and messages.
   
-I was able to know how to use
-- Setting up a React project using Vite.
-- Styling components using Tailwind CSS.
-- Creating reusable functional components in React.
+I was able to 
+- Set up a React project using Vite.
+- Style components using Tailwind CSS.
+- Create reusable functional components in React.
 
 ---
   
